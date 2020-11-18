@@ -9,8 +9,11 @@ HOW CAN WE ACCESS API FOR FILE UPLOAD?
 1) Open Postman app
 2) New POST request with 
    url: http://localhost:8080/rest/upload/file
+   
    body: form-data
+   
     key: file
+    
     value: <use sample "books_1.csv">
     
     
