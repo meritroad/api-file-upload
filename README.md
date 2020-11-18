@@ -15,6 +15,7 @@ http://localhost:8080/rest/upload/file
     
     
 **Option 2 (Without POSTMAN app)**
+
 POST /rest/upload/file HTTP/1.1
 Host: localhost:8080
 Cache-Control: no-cache
