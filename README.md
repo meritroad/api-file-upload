@@ -3,7 +3,7 @@
 API Endpoint:
 http://localhost:8080/rest/upload/file
 
-*Steps for Client Request*
+HOW CAN WE ACCESS API FOR FILE UPLOAD?
 
 **Option 1 (Use POSTMAN app)**
 1) Open Postman app
