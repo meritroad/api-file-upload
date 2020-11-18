@@ -1,7 +1,12 @@
-# api-file-upload
+This is a SPRING BOOT application which provides API for uploading a local CSV file
 
-API Endpoint:
-http://localhost:8080/rest/upload/file
+WHAT IS THE API ENDPOINT?
+- http://localhost:8080/rest/upload/file
+
+
+HOW TO START SERVER?
+- Run Spring Application class "ApiFileUploadApplication.java" from your IDE (Eclipse / Intellij)
+
 
 HOW CAN WE ACCESS API FOR FILE UPLOAD?
 
