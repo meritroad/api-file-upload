@@ -1,4 +1,4 @@
-V1.0
+V1.1  
 
 This is a SPRING BOOT application which provides API for uploading a local CSV file and gives back parsed data back to the client.
 
